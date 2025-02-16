@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeGame", "SomeGame.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launcher", "..\Launcher\Launcher.csproj", "{4099A38A-3344-424F-956A-9577F5903BD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Installer", "..\Installer\Installer.csproj", "{123C257A-2421-49C7-8F5C-5338C7E907D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4099A38A-3344-424F-956A-9577F5903BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4099A38A-3344-424F-956A-9577F5903BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4099A38A-3344-424F-956A-9577F5903BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123C257A-2421-49C7-8F5C-5338C7E907D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123C257A-2421-49C7-8F5C-5338C7E907D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123C257A-2421-49C7-8F5C-5338C7E907D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123C257A-2421-49C7-8F5C-5338C7E907D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
